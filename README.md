@@ -1,5 +1,5 @@
 # install-chrome-slackware
-## Tutorial para instalação do Google Chorme no Slackware
+## Tutorial para instalação do Google Chrome no Slackware
 ---
 
 1) Acessar o site abaixo:</br>
